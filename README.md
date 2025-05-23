@@ -1,8 +1,6 @@
 # Calculator-App
-This is a learning application utilizing the youtube video located at "https://www.youtube.com/watch?v=sBJmRD7kNTk&amp;t=585s" this is NOT completely original work and is used for learning purposes only
+This is a learning application utilizing the youtube video located at "https://www.youtube.com/watch?v=sBJmRD7kNTk&amp;t=585s" this code is followed from the video with added embelishments within the design and functionality of the calculator.
 
-
-I added some new colors and functionalities to the origional design. 
 
 Future:
     - add auto clear when clicking a number after hitting equals
